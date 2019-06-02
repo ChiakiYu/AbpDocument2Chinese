@@ -46,12 +46,14 @@
     4. [权限验证](Abp/4.4ABP应用层-权限认证.md)
     5. [功能管理](Abp/4.5ABP应用层-功能管理.md)
     6. [审计日志](Abp/4.6ABP应用层-审计日志.md)
+    7. [实体历史](Abp/4.6ABP应用层-EntityHistory.md)
 
 5. 分布式服务层
     1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NETWebApi.md)
     2. [动态WebApi层](Abp/5.2ABP分布式服务-动态WebApi层.md)
     3. [集成OData](Abp/5.3ABP分布式服务-集成OData.md)
     4. [集成Swagger UI](Abp/5.4ABP分布式服务-集成SwaggerUI.md)
+    5. [ASPNET Core 集成OData](Abp/5.5ABP分布式服务-ASPNETCoreOData集成.md)
 
 6. ABP表现层
     1. [MVC Controllers](Abp/6.1ABP表现层-Mvc控制器.md)
@@ -73,6 +75,7 @@
 8. ABP实时服务
     1. [通知系统](Abp/8.1ABP实时服务-通知系统.md)
     2. [集成SignalR](Abp/8.2ABP实时服务-集成SignalR.md)
+    3. [集成SignalR AspNet Core](Abp/8.3ABP实时服务-集成SignalRAspNetCore.md)
 
 9. ABP基础设施层
     1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成EntityFramework.md)
@@ -82,6 +85,8 @@
     5. [集成Dapper](Abp/9.5ABP基础设施层-集成Dapper.md)
     
 ### Abp Zero
+
+#### 有想学习纯Vue版客户端的AbpZeroDemo的可以移步到这里 [VueAbpZeroDemo](https://github.com/carldai0106/VueAbpZeroDemo)
 
 由于博客园已经有了完全版的ABP Zero的翻译，这里没有翻译的将直接链接到[tkb至简](http://www.cnblogs.com/farb)的博客。
 感谢tkb至简。
